@@ -3,7 +3,7 @@
 ## Platforms
 | Platform | Solved |
 |----------|--------|
-| Codeforces | 32 |
+| Codeforces | 34 |
 
 ## Goals
 - Language Mastery
@@ -12,4 +12,3 @@
 
 ## Languages Used
 - Rust
-
