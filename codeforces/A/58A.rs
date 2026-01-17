@@ -2,7 +2,7 @@ use std::io::{self, Read};
 
 fn main() {
     let mut input = String::new();
-  
+
     io::stdin().read_to_string(&mut input).unwrap();
 
     let word = input.chars();
@@ -17,7 +17,7 @@ fn main() {
             'o' if counter == 4 => {
                 println!("YES");
                 return;
-            },
+            }
             _ => continue,
         }
     }
