@@ -3,7 +3,7 @@
 ## Platforms
 | Platform | Solved |
 |----------|--------|
-| Codeforces | 36 |
+| Codeforces | 38 |
 
 ## Goals
 - Language Mastery
